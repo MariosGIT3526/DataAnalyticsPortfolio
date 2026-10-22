@@ -44,4 +44,4 @@ I turn messy, real-world data into dashboards and forecasts that answer business
 
 ---
 
-📫 **Open to Data Analyst, BI Analyst, and Sports Analytics roles in Southern California and remote.**
+📫 **Open to Data Analyst, BI Analyst, and Data Scientist roles in Southern California and remote.**
