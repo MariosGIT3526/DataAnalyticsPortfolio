@@ -38,7 +38,7 @@ I turn messy, real-world data into dashboards and forecasts that answer business
 ---
 
 ## 🎯 What I'm Focused On
-- Sports and entertainment analytics: fan demand, ticketing, promotions and revenue strategy
+- Turning raw data into clear, actionable insights that help businesses make better decisions
 - Building Power BI reports that lead with the business question and end with a recommendation
 - Earning the PL-300 and expanding into cloud data tools (Azure)
 
